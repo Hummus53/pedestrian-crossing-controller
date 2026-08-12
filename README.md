@@ -39,6 +39,10 @@ Pedestrian request uses the Nucleo's **onboard B1 button (PC13)** — no externa
 | UART (debug/logging) | PA2/PA3 (USART2, via ST-Link virtual COM port) |
 | Phase timer | TIM2 (1-second tick) |
 
+<img width="4284" height="5712" alt="IMG_7586" src="https://github.com/user-attachments/assets/325671a7-03ec-436c-b801-89cd3527ee0a" />
+<img width="4284" height="5712" alt="IMG_7587" src="https://github.com/user-attachments/assets/aa6da3cb-c36d-4c55-81ba-57d58545bf54" />
+<img width="4284" height="5712" alt="IMG_7588" src="https://github.com/user-attachments/assets/7828ef61-558a-4e56-8ab4-ab9bbee30cfd" />
+
 ## State Machine
 
 ```
