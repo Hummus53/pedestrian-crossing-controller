@@ -90,4 +90,4 @@ t=12006 ms: -> CAR_GREEN
 
 ## Author
 
-Built as a portfolio/coop-application project — [your name here].
+Built as a portfolio/coop-application project — Anas Muhsin.
