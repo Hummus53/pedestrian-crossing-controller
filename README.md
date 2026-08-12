@@ -79,7 +79,6 @@ t=12006 ms: -> CAR_GREEN
   interrupt service routines short and predictable.
 - **Software debouncing.** The button callback ignores repeat triggers within 300ms of the last accepted
   press, filtering out mechanical contact bounce.
-- See `code_walkthrough.pdf` in this repo for a full line-by-line explanation of the implementation.
 
 ## Known Limitations / Future Work
 
